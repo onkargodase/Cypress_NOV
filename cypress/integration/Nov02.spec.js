@@ -25,3 +25,5 @@ describe('VERIFY THE LOG IN FUNCTIONALITY', ()=>{
         cy.get('.oxd-alert-content-text').should('have.text','Invalid credentials')
     })
 })
+
+
