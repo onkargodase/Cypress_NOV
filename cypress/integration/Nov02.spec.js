@@ -26,4 +26,4 @@ describe('VERIFY THE LOG IN FUNCTIONALITY', ()=>{
     })
 })
 
-
+// added this line to check git repo.
